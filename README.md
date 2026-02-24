@@ -6,7 +6,7 @@ Projeto desenvolvido com foco em arquitetura front-end escalável, organização
 
 ---
 
-## 🚀 Demonstração
+##  Demonstração
 
 ![Dashboard Inicial](./assets/dashboard.png)
 ![Gestão de Produtos](./assets/produtos.png)
