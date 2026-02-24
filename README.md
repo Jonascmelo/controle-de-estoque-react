@@ -8,6 +8,10 @@ Projeto desenvolvido com foco em arquitetura front-end escalável, organização
 
 ## 🚀 Demonstração
 
+![Dashboard Inicial](./assets/dashboard.png)
+![Gestão de Produtos](./assets/produtos.png)
+![Dashboard Analítico](./assets/analytics.png)
+
 Em execução local via Vite:
 
 ```bash
