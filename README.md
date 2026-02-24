@@ -1,42 +1,105 @@
+# 📦 Controle de Estoque Web
 
+Sistema web moderno para gestão de estoque com dashboard analítico e visualização de indicadores estratégicos.
 
-## Project info
+Projeto desenvolvido com foco em arquitetura front-end escalável, organização modular e experiência do usuário.
 
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🚀 Demonstração
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Em execução local via Vite:
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
+npm install
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+Stack Tecnológica
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+⚛️ React 18
 
-**Use GitHub Codespaces**
+🟦 TypeScript
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+⚡ Vite
 
-## What technologies are used for this project?
+🎨 TailwindCSS
 
-This project is built with:
+🧩 ShadCN UI
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+📊 Recharts
+
+🔀 React Router DOM
+
+📦 Radix UI
+
+🧪 Vitest
+
+📊 Funcionalidades
+
+Dashboard com indicadores visuais
+
+Visualização de métricas de estoque
+
+Interface responsiva e moderna
+
+Estrutura preparada para integração com API
+
+Organização modular de componentes
+
+Arquitetura pronta para expansão SaaS
+
+🏗️ Arquitetura do Projeto
+
+Estrutura organizada em:
+
+src/
+ ├── components/
+ ├── pages/
+ ├── routes/
+ ├── hooks/
+ ├── lib/
+ └── assets/
+
+ Padrões utilizados:
+
+Componentização reutilizável
+
+Separação de responsabilidades
+
+Estrutura preparada para escalabilidade
+
+Tipagem forte com TypeScript
+
+Objetivo do Projeto
+
+Este projeto foi desenvolvido com foco em:
+
+Aplicação de boas práticas em front-end moderno
+
+Estruturação de dashboard empresarial
+
+Base para evolução para sistema ERP / SaaS
+
+Preparação para integração com backend (FastAPI ou Node)
+
+Próximas Evoluções
+
+Integração com backend REST
+
+Autenticação com JWT
+
+Multi-tenant
+
+Relatórios em PDF
+
+Deploy em produção (Vercel)
+
+Integração com banco de dados
+
+
+Autor
+
+Jonas Melo
+Engenheiro de Dados | Desenvolvedor Full Stack em evolução
+
+🔗 LinkedIn: www.linkedin.com/in/jonas-melo-ab233215b
